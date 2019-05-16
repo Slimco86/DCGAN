@@ -33,8 +33,8 @@ The exact hyperparameters and the following results are dependent on the complex
 
 The model was trained on [intel-image-classification database](https://www.kaggle.com/puneet6060/intel-image-classification "intel-image-classification database"), taken from Kaggle. The training is more efficient on single lable data, which is strongly recomended. In this example I am trying to generate images of sea. Starting from this:
 
-![picture alt](results/sea/epochs.png)
+![picture alt](Results/sea/epochs.png)
 
 the model gradually improves and after 8k epochs starts to give something, resembling at least the paintings of the sea.
-![picture alt](results/sea/results.png)
+![picture alt](Results/sea/results.png)
 
